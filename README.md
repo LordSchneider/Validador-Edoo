@@ -1,7 +1,7 @@
 # Validador-Edoo
 Evita que gente sin acceso ingrese a Edoo Help
 ## Como instalarlo en wordpress
-1. Descargar el archivo __Edoo_validar.php__.
+1. Descargar el archivo __edoo-auth-plugin.php__.
 2. Guardar el archivo php como **.Zip**.
 3. Abrir cualquier instancia de Wordpress.
 4. Abrir la ventana de administrador de WordPress.
